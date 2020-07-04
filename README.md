@@ -1,6 +1,6 @@
 # Clicks_fraud_detection_with_Kafka_and_Flink
 Detection of suspicious clicks on ads through a data stream analysis.  
-Data stream the was read from kafka and processed on Flink  
+The data stream was read from kafka and processed on Flink  
 
 ## Analysis_and_outputs folder contains: 
 [__Pre_analysis.ipynb__](https://github.com/Nada-S/Clicks_fraud_detection_with_Kafka_and_Flink/blob/master/Analysis_and_outputs/Pre_analysis.ipynb) : the upstream analysis of a sample of data to define 3 suspicious patterns  
