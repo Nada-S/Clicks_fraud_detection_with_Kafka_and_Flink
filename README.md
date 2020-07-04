@@ -3,8 +3,8 @@ Detection of suspicious clicks on ads through a data stream analysis.
 Data stream the was read from kafka and processed on Flink  
 
 ## Analysis_and_outputs folder contains: 
-__Pre_analysis.ipynb__ : the upstream data analysis to define 3 suspicious patterns  
-__Patterns_analysis.ipynb__ : the analysis of the patterns outputted  
+[__Pre_analysis.ipynb__](https://github.com/Nada-S/Clicks_fraud_detection_with_Kafka_and_Flink/blob/master/Analysis_and_outputs/Pre_analysis.ipynb) : the upstream analysis of a sample of data to define 3 suspicious patterns  
+[__Patterns_analysis.ipynb__](https://github.com/Nada-S/Clicks_fraud_detection_with_Kafka_and_Flink/blob/master/Analysis_and_outputs/Patterns_analysis.ipynb) : the analysis of the patterns outputted  
 __The output files__ of the streaming job  
 
 ## <font color='green'> The scala Streaming job file: </font>  
